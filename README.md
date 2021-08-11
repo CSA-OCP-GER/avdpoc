@@ -26,7 +26,8 @@
 - We added some **Pipelines** to the project can be used to automate the Azure deployment e.g. of the landing zone parts (VNETs, subnets, VMs, images,...). They align with the user stories in the boards. 
 
 ## Table Of Contents
-[Challenge00-Setup](./challenges/00-setup/readme.md)
+[Challenge00 - Create an Azure DevOps project using the Azure DevoOps Demo Generator](./challenges/00-setup/readme.md)
+[Challenge01 - Create an Azure Service Principal to be used with Azure Devops ](./challenges/01-createserviceprincipal/readme.md)
 
 ## Annotations
 **This guide is by all means not complete !**  
