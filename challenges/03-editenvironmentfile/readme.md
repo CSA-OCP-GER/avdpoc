@@ -1,4 +1,4 @@
-# Edit your environment file to change where & what will be deployed in the PoC
+# 03 - Edit your environment file to change where & what will be deployed in the PoC
 
 1. In Azure Devops -> %Your AVD Project% -> Repos -> Expand 'pipelines' -> click on '*yourenvfile.pipeline.variables.yml*'  to view the contents:
 
@@ -38,3 +38,5 @@ you got the values from [Challenge 01 - Create Service Principal](../01-createse
 
 ## Here is a video that shows how:  
 [![Edit the environment file](./envfile.jpg)](https://youtu.be/IxMRPI9lehQ)
+
+[back](../../README.md)

@@ -27,7 +27,9 @@
 
 ## Getting Started
 - [Challenge00 - Create an Azure DevOps project using the Azure DevoOps Demo Generator](./challenges/00-setup/readme.md)
-- [Challenge01 - Create an Azure Service Principal to be used with Azure Devops ](./challenges/01-createserviceprincipal/readme.md)
+- [Challenge01 - Create an Azure Service Principal to be used with Azure Devops](./challenges/01-createserviceprincipal/readme.md)
+- [Challenge02 - Create an Azure Devops Service Connection using the service principal](./challenges/02-createserviceconnection/readme.md)
+- [Challenge03 - Edit your environment file to change where & what will be deployed in the PoC](./challenges/03-editenvironmentfile/readme.md)
 
 ## Annotations
 **This guide is by all means not complete !**  
