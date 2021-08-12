@@ -7,4 +7,4 @@
 5. Copy the Service principal details for later use.
 
 ## Here is a video that shows how:  
-[![Create an Azure Service Principal to be used with Azure Devops](https://i9.ytimg.com/vi/qDgReIuQQdo/mq2.jpg?sqp=COD6z4gG&rs=AOn4CLA-RQEBN9hFI9v4_Td_7sEbiyvu-g)](https://youtu.be/qDgReIuQQdo)
+[![Create an Azure Service Principal to be used with Azure Devops](./createsp.jpg)](https://youtu.be/qDgReIuQQdo)

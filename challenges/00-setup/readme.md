@@ -10,4 +10,4 @@
 8. Once finished -> Navigate to project.  
 
 ## Here is a video that shows how:  
-[![Setup the project using the Azure Devops Demo Generator](https://i9.ytimg.com/vi/ANLp8bGBM3I/mq2.jpg?sqp=CMDCz4gG&rs=AOn4CLBIjCSWOxR3pCIjKrDOewWcl8xK_A)](https://www.youtube.com/watch?v=ANLp8bGBM3I)
+[![Setup the project using the Azure Devops Demo Generator](./azuredevopsdemogenerator.jpg)](https://www.youtube.com/watch?v=ANLp8bGBM3I)
