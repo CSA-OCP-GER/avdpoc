@@ -39,5 +39,5 @@ you got the values from [Challenge 01 - Create Service Principal](../01-createse
 ## Here is a video that shows how:  
 [![Edit the environment file](./envfile.jpg)](https://youtu.be/IxMRPI9lehQ)
 
-[next](./../04-deploylandingzone/readme.md)
+[next](./../04-deploylandingzone/readme.md)  
 [back](../../README.md)
