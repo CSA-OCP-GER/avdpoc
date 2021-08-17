@@ -17,6 +17,7 @@ password: *%the one I used in previous challenge%*
 9. Establish the sync -> Wait -> Check the [Azure Portal] -> Azure Active Directory -> Users for synced users.
 
 ## Here is a video that shows how:  
-[![Run landing zone pipeline](./makeadsync.jpg)](https://youtu.be/p0nWcNd88UE)
+[![Run landing zone pipeline](./makeadsync.jpg)](https://youtu.be/p0nWcNd88UE)  
 
+[next](./../06-deployavd/readme.md)  
 [back](../../README.md)

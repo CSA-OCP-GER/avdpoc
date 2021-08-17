@@ -37,6 +37,8 @@ Is about **using Azure DevOps as home for an Azure Virtual Desktop (AVD) - PoC**
 - [Challenge03 - Edit your environment file to change where & what will be deployed in the PoC (2 mins)](./challenges/03-editenvironmentfile/readme.md)
 - [Challenge04 - Run the pipeline that will deploy your Azure AVD landing zone (= deployment requirements) (30 mins)](./challenges/04-deploylandingzone/readme.md)
 - [Challenge05 - Sync AD with Azure AD (AAD) using AD Connect (15 mins)](./challenges/05-adandaadsync/readme.md)
+- [Challenge06 - Deploy an AVD hostpool (with session hosts) using an Azure DevOps pipeline (20 mins) ](./challenges/06-deployavd/readme.md)
+
 
 ## Annotations
 
