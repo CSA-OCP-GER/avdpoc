@@ -29,7 +29,7 @@ Is about **using Azure DevOps as home for an Azure Virtual Desktop (AVD) - PoC**
 - The code **Repos**itory **already has some artefacts** (e.g. automation sample code used in the pipelines) that automate the deployment(s). It is **also** the **place** where **you** should **store generated artefacts** (excel, powerpoint, documentation,...) throughout a project.  
 - We added some **Pipelines** to the project can be used to automate the Azure deployment e.g. of the landing zone parts (VNETs, subnets, VMs, images,...). They align with the user stories in the boards.  
 
-## Getting Started
+## Table of contents
 
 - [Challenge00 - Create an Azure DevOps project using the Azure DevoOps Demo Generator (5 mins)](./challenges/00-setup/readme.md)
 - [Challenge01 - Create an Azure Service Principal to be used with Azure Devops (6 mins)](./challenges/01-createserviceprincipal/readme.md)
