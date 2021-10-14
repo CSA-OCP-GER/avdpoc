@@ -41,6 +41,7 @@ Is about **using Azure DevOps as home for an Azure Virtual Desktop (AVD) - PoC**
 - [Challenge07 - Create AVD Hostpool and desktops only (10 mins) ](./challenges/07-hp/readme.md)
 - [Challenge08 - Using FSLogix with Azure Premium Fileshare (15 mins)](./challenges/08-fslogix/readme.md)
 - [Challenge09 - Creating A VM Image Using Azure Image Builder Pipeline (30 mins)](./challenges/09-aib/readme.md)
+- [Challenge10 - Creating  A Custom VM Image in Azure Using Packer Devops Pipeline (1h mins)](./challenges/10-packer/readme.md)
 
 ## Annotations
 
