@@ -7,6 +7,6 @@ The [WVD Admin]([https://link](https://blog.itprocloud.de/Windows-Virtual-Deskto
 
 ## Here is a video that will show what happens
 
-[![Using azure image builder pipeline](./wvdadmin.jpg)](https://youtu.be/m9f2HjdHlBY)
+[![Installing WVD Admin pipeline](./wvdadmin.jpg)](https://youtu.be/m9f2HjdHlBY)
 
 [back](../../README.md)
