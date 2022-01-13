@@ -14,7 +14,7 @@ Is about **using Azure DevOps as home for an Azure Virtual Desktop (AVD) - PoC**
 - ... automate using pipelines to speed up deployments
 
 ## About / Who and Why - Video
-[![About this project - Introvideo](./images/about-avdPoC.jpg)](https://www.youtube.com/watch?v=ANLp8bGBM3I)
+[![About this project - Introvideo](./images/about-avdPoC.jpg)](https://www.youtube.com/watch?v=yBgPGTsa8Qo&list=PL6oZc9x_VTWo-DfdXKkDuWAI4pVnoUboU)
 
 ## Screenshots
 
