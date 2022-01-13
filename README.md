@@ -13,6 +13,9 @@ Is about **using Azure DevOps as home for an Azure Virtual Desktop (AVD) - PoC**
 - ... with a list of structured work items - so that an implementation can be done in a repetitive way.
 - ... automate using pipelines to speed up deployments
 
+## About / Who and Why - Video
+[![About this project - Introvideo](./images/about-avdPoC.jpg)](https://www.youtube.com/watch?v=ANLp8bGBM3I)
+
 ## Screenshots
 
 |  |  |  |
